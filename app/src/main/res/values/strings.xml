@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screen Time Tracker</string>
+    <string name="today">Today</string>
+    <string name="this_week">This Week</string>
+    <string name="this_month">This Month</string>
+    <string name="refresh">Refresh</string>
+    <string name="usage_access_required">Usage Access permission is required to track app usage</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="hours">%1$d hours</string>
+    <string name="minutes">%1$d minutes</string>
+    <string name="widget_title">Top Apps Today</string>
+</resources> 
